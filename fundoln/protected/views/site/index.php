@@ -108,7 +108,7 @@
                 </div>
                 <div class="col-md-8 wow fadeInLeft">
                     <br><h3>Venta de Embriones</h3>
-                    <p style="text-align:justify;">Los embriones transferibles son muy parecidos entre sí, pero pueden tener cierta diferencia en su desarrollo y en sus características morfológicas. En base a esto se les clasifica de la siguiente manera:</p>
+                    <p style="text-align:justify;text-transform:uppercase">Los embriones transferibles son muy parecidos entre sí, pero pueden tener cierta diferencia en su desarrollo y en sus características morfológicas. En base a esto se les clasifica de la siguiente manera:</p>
                     <ul>
                     <li>CALIDAD 1.- Excelente, sin ningún defecto.</li>
                     <li>CALIDAD 2.- Bueno, con defectos leves.</li>
@@ -122,7 +122,7 @@
             <div style="padding:0 125px" class="row">
                 <div class="col-md-8 text-right wow fadeInRight">
                     <br><h3>Ganado para consumo humano</h3>
-                    <p>El ganado es el conjunto de animales criados por el ser humano, sobre todo mamíferos, para la producción de carne y sus derivados, que son utilizados en la alimentación humana. La actividad humana encargada del ganado es la ganadería. Aeterno volumus recusabo vel id, id usu facilisi accusata, in quod inermis rationibus mea. Lorem ipsum dolor sit amet, ut pri munere perfecto sadipscing, nam habeo legere disputationi ea.</p>
+                    <p style="text-transform:uppercase">El ganado es el conjunto de animales criados por el ser humano, sobre todo mamíferos, para la producción de carne y sus derivados, que son utilizados en la alimentación humana. La actividad humana encargada del ganado es la ganadería. Aeterno volumus recusabo vel id, id usu facilisi accusata, in quod inermis rationibus mea. Lorem ipsum dolor sit amet, ut pri munere perfecto sadipscing, nam habeo legere disputationi ea.</p>
                 </div>
                 <div class="col-md-4 text-center wow fadeInRight">
                     <img src="<?php echo Yii::app()->baseUrl; ?>/img/ganado.jpg" class="img-rounded">
@@ -318,6 +318,13 @@
                             </div>
                             <div class="item">
                                 <p>"Design is the method of putting form and content together. Design, just as art, has multiple definitions; there is no single definition. Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."</p>
+                                <div class="client-info">
+                                    <div class="name">Paul Rand</div>
+                                    <div class="position">Graphic Designer</div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <p style="text-transform:uppercase">"Design is the method of putting form and content together. Design, just as art, has multiple definitions; there is no single definition. Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."</p>
                                 <div class="client-info">
                                     <div class="name">Paul Rand</div>
                                     <div class="position">Graphic Designer</div>
