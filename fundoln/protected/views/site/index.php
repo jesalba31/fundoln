@@ -302,13 +302,7 @@
                     <div class="col-lg-12 text-center">
                         <div id="testimonial-wrapper">
 
-                            <div class="item">
-                                <p>"Good design is making something intelligible and memorable. Great design is making something memorable and meaningful."</p>
-                                <div class="client-info">
-                                    <div class="name">Dieter Rams</div>
-                                    <div class="position">Industrial designer</div>
-                                </div>
-                            </div>
+                            
                             <div class="item">
                                 <p>"Design is not just what it looks like and feels like. Design is how it works."</p>
                                 <div class="client-info">
