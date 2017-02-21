@@ -39,7 +39,7 @@
 
     <!-- Features Section
     ================================================== -->
-    <!--<section id="features">
+    <section id="features">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -85,8 +85,7 @@
             </div>
 
         </div>
-    </section>-->
-
+    </section>
 
 <section id="features">
         <div class="">
