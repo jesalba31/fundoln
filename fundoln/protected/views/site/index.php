@@ -122,7 +122,7 @@
             <div style="padding:0 125px" class="row">
                 <div class="col-md-8 text-right wow fadeInRight">
                     <br><h3>Ganado para consumo humano</h3>
-                    <p style="text-transform:uppercase">El ganado es el conjunto de animales criados por el ser humano, sobre todo mamíferos, para la producción de carne y sus derivados, que son utilizados en la alimentación humana. La actividad humana encargada del ganado es la ganadería. Aeterno volumus recusabo vel id, id usu facilisi accusata, in quod inermis rationibus mea. Lorem ipsum dolor sit amet, ut pri munere perfecto sadipscing, nam habeo legere disputationi ea.</p>
+                    <p style="text-align:justify;text-transform:uppercase">El ganado es el conjunto de animales criados por el ser humano, sobre todo mamíferos, para la producción de carne y sus derivados, que son utilizados en la alimentación humana. La actividad humana encargada del ganado es la ganadería. Aeterno volumus recusabo vel id, id usu facilisi accusata, in quod inermis rationibus mea. Lorem ipsum dolor sit amet, ut pri munere perfecto sadipscing, nam habeo legere disputationi ea.</p>
                 </div>
                 <div class="col-md-4 text-center wow fadeInRight">
                     <img src="<?php echo Yii::app()->baseUrl; ?>/img/ganado.jpg" class="img-rounded">
